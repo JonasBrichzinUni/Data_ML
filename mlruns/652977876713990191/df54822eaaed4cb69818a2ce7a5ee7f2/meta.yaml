@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jonasbrichzin/Desktop/Nachhol_Abgabe_Jonas_Brichzin_Machine_Learning/mlruns/652977876713990191/df54822eaaed4cb69818a2ce7a5ee7f2/artifacts
+end_time: 1706196081328
+entry_point_name: ''
+experiment_id: '652977876713990191'
+lifecycle_stage: active
+run_id: df54822eaaed4cb69818a2ce7a5ee7f2
+run_name: indecisive-yak-638
+run_uuid: df54822eaaed4cb69818a2ce7a5ee7f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706196081093
+status: 3
+tags: []
+user_id: jonasbrichzin

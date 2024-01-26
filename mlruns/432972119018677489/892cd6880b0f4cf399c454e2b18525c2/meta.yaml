@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jonasbrichzin/Desktop/Nachhol_Abgabe_Jonas_Brichzin_Machine_Learning/mlruns/432972119018677489/892cd6880b0f4cf399c454e2b18525c2/artifacts
+end_time: 1706284640266
+entry_point_name: ''
+experiment_id: '432972119018677489'
+lifecycle_stage: active
+run_id: 892cd6880b0f4cf399c454e2b18525c2
+run_name: mercurial-ape-391
+run_uuid: 892cd6880b0f4cf399c454e2b18525c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706284598275
+status: 3
+tags: []
+user_id: jonasbrichzin

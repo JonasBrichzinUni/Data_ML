@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jonasbrichzin/Desktop/Nachhol_Abgabe_Jonas_Brichzin_Machine_Learning/mlruns/432972119018677489/b7072944c6a24edaa947f58e6a865981/artifacts
+end_time: 1706227757625
+entry_point_name: ''
+experiment_id: '432972119018677489'
+lifecycle_stage: active
+run_id: b7072944c6a24edaa947f58e6a865981
+run_name: cnn_run_1
+run_uuid: b7072944c6a24edaa947f58e6a865981
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706227713606
+status: 3
+tags: []
+user_id: jonasbrichzin

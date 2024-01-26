@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jonasbrichzin/Desktop/Nachhol_Abgabe_Jonas_Brichzin_Machine_Learning/mlruns/432972119018677489/5a544609799e410f9888def4ade8a124/artifacts
+end_time: 1706206908965
+entry_point_name: ''
+experiment_id: '432972119018677489'
+lifecycle_stage: active
+run_id: 5a544609799e410f9888def4ade8a124
+run_name: orderly-flea-874
+run_uuid: 5a544609799e410f9888def4ade8a124
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706206902112
+status: 3
+tags: []
+user_id: jonasbrichzin

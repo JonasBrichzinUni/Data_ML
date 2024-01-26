@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jonasbrichzin/Desktop/Nachhol_Abgabe_Jonas_Brichzin_Machine_Learning/mlruns/432972119018677489/c0c7d398b39c41be92bd553af28ef56c/artifacts
+end_time: 1706223409095
+entry_point_name: ''
+experiment_id: '432972119018677489'
+lifecycle_stage: active
+run_id: c0c7d398b39c41be92bd553af28ef56c
+run_name: treasured-elk-997
+run_uuid: c0c7d398b39c41be92bd553af28ef56c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706223402345
+status: 4
+tags: []
+user_id: jonasbrichzin

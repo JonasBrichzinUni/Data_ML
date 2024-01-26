@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jonasbrichzin/Desktop/Nachhol_Abgabe_Jonas_Brichzin_Machine_Learning/mlruns/432972119018677489/7ec69cf20c5a4008a7d0888d79fed4e0/artifacts
+end_time: 1706227713434
+entry_point_name: ''
+experiment_id: '432972119018677489'
+lifecycle_stage: active
+run_id: 7ec69cf20c5a4008a7d0888d79fed4e0
+run_name: bedecked-midge-366
+run_uuid: 7ec69cf20c5a4008a7d0888d79fed4e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706227713321
+status: 3
+tags: []
+user_id: jonasbrichzin

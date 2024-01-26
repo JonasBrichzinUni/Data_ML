@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jonasbrichzin/Desktop/Nachhol_Abgabe_Jonas_Brichzin_Machine_Learning/mlruns/432972119018677489/8c0b8c4da4ab458db3871564ad79a574/artifacts
+end_time: 1706264414991
+entry_point_name: ''
+experiment_id: '432972119018677489'
+lifecycle_stage: active
+run_id: 8c0b8c4da4ab458db3871564ad79a574
+run_name: amusing-bee-968
+run_uuid: 8c0b8c4da4ab458db3871564ad79a574
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706264367757
+status: 3
+tags: []
+user_id: jonasbrichzin

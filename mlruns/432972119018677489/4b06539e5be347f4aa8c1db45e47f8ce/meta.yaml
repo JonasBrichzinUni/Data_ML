@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jonasbrichzin/Desktop/Nachhol_Abgabe_Jonas_Brichzin_Machine_Learning/mlruns/432972119018677489/4b06539e5be347f4aa8c1db45e47f8ce/artifacts
+end_time: 1706224751741
+entry_point_name: ''
+experiment_id: '432972119018677489'
+lifecycle_stage: active
+run_id: 4b06539e5be347f4aa8c1db45e47f8ce
+run_name: puzzled-crow-210
+run_uuid: 4b06539e5be347f4aa8c1db45e47f8ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706224703144
+status: 3
+tags: []
+user_id: jonasbrichzin

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jonasbrichzin/Desktop/Nachhol_Abgabe_Jonas_Brichzin_Machine_Learning/mlruns/432972119018677489/bfd6523616244dd69af5afd0bb74ea2c/artifacts
+end_time: 1706225653305
+entry_point_name: ''
+experiment_id: '432972119018677489'
+lifecycle_stage: active
+run_id: bfd6523616244dd69af5afd0bb74ea2c
+run_name: magnificent-bee-734
+run_uuid: bfd6523616244dd69af5afd0bb74ea2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706225616018
+status: 3
+tags: []
+user_id: jonasbrichzin

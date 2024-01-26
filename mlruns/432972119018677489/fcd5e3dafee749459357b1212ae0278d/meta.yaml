@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jonasbrichzin/Desktop/Nachhol_Abgabe_Jonas_Brichzin_Machine_Learning/mlruns/432972119018677489/fcd5e3dafee749459357b1212ae0278d/artifacts
+end_time: 1706264075688
+entry_point_name: ''
+experiment_id: '432972119018677489'
+lifecycle_stage: active
+run_id: fcd5e3dafee749459357b1212ae0278d
+run_name: debonair-midge-902
+run_uuid: fcd5e3dafee749459357b1212ae0278d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706264043088
+status: 3
+tags: []
+user_id: jonasbrichzin

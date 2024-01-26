@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jonasbrichzin/Desktop/Nachhol_Abgabe_Jonas_Brichzin_Machine_Learning/mlruns/432972119018677489/764489745d654f8c8fc94ec23484a034/artifacts
+end_time: 1706206357949
+entry_point_name: ''
+experiment_id: '432972119018677489'
+lifecycle_stage: active
+run_id: 764489745d654f8c8fc94ec23484a034
+run_name: peaceful-rat-708
+run_uuid: 764489745d654f8c8fc94ec23484a034
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706206353096
+status: 3
+tags: []
+user_id: jonasbrichzin

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jonasbrichzin/Desktop/Nachhol_Abgabe_Jonas_Brichzin_Machine_Learning/mlruns/432972119018677489/01c88a6165e244f8a8f22fd46bf21712/artifacts
+end_time: 1706229052947
+entry_point_name: ''
+experiment_id: '432972119018677489'
+lifecycle_stage: active
+run_id: 01c88a6165e244f8a8f22fd46bf21712
+run_name: rogue-bear-670
+run_uuid: 01c88a6165e244f8a8f22fd46bf21712
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706229015052
+status: 3
+tags: []
+user_id: jonasbrichzin

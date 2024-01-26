@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jonasbrichzin/Desktop/Nachhol_Abgabe_Jonas_Brichzin_Machine_Learning/mlruns/432972119018677489/1682f57d001040738c775d2bac5fd1a9/artifacts
+end_time: 1706208750799
+entry_point_name: ''
+experiment_id: '432972119018677489'
+lifecycle_stage: active
+run_id: 1682f57d001040738c775d2bac5fd1a9
+run_name: chill-ape-862
+run_uuid: 1682f57d001040738c775d2bac5fd1a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706208750186
+status: 4
+tags: []
+user_id: jonasbrichzin

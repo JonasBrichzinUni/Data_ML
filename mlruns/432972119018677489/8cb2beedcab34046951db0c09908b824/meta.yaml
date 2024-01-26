@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jonasbrichzin/Desktop/Nachhol_Abgabe_Jonas_Brichzin_Machine_Learning/mlruns/432972119018677489/8cb2beedcab34046951db0c09908b824/artifacts
+end_time: 1706205573558
+entry_point_name: ''
+experiment_id: '432972119018677489'
+lifecycle_stage: active
+run_id: 8cb2beedcab34046951db0c09908b824
+run_name: merciful-tern-269
+run_uuid: 8cb2beedcab34046951db0c09908b824
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706205573507
+status: 4
+tags: []
+user_id: jonasbrichzin

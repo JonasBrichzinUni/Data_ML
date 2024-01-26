@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jonasbrichzin/Desktop/Nachhol_Abgabe_Jonas_Brichzin_Machine_Learning/mlruns/432972119018677489/5733f8784c5c4c8a9f01d9308f212042/artifacts
+end_time: 1706197708556
+entry_point_name: ''
+experiment_id: '432972119018677489'
+lifecycle_stage: active
+run_id: 5733f8784c5c4c8a9f01d9308f212042
+run_name: clumsy-eel-367
+run_uuid: 5733f8784c5c4c8a9f01d9308f212042
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706197708483
+status: 4
+tags: []
+user_id: jonasbrichzin

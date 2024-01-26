@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jonasbrichzin/Desktop/Nachhol_Abgabe_Jonas_Brichzin_Machine_Learning/mlruns/432972119018677489/a8da412df9fe4771961847734a7f7804/artifacts
+end_time: 1706228882145
+entry_point_name: ''
+experiment_id: '432972119018677489'
+lifecycle_stage: active
+run_id: a8da412df9fe4771961847734a7f7804
+run_name: zealous-auk-58
+run_uuid: a8da412df9fe4771961847734a7f7804
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706228875344
+status: 3
+tags: []
+user_id: jonasbrichzin

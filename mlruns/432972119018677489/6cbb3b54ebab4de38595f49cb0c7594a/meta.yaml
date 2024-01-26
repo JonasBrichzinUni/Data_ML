@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jonasbrichzin/Desktop/Nachhol_Abgabe_Jonas_Brichzin_Machine_Learning/mlruns/432972119018677489/6cbb3b54ebab4de38595f49cb0c7594a/artifacts
+end_time: 1706227354214
+entry_point_name: ''
+experiment_id: '432972119018677489'
+lifecycle_stage: active
+run_id: 6cbb3b54ebab4de38595f49cb0c7594a
+run_name: secretive-vole-963
+run_uuid: 6cbb3b54ebab4de38595f49cb0c7594a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706227353874
+status: 4
+tags: []
+user_id: jonasbrichzin

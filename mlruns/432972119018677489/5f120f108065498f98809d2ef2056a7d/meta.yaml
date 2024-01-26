@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jonasbrichzin/Desktop/Nachhol_Abgabe_Jonas_Brichzin_Machine_Learning/mlruns/432972119018677489/5f120f108065498f98809d2ef2056a7d/artifacts
+end_time: 1706264367669
+entry_point_name: ''
+experiment_id: '432972119018677489'
+lifecycle_stage: active
+run_id: 5f120f108065498f98809d2ef2056a7d
+run_name: exultant-owl-946
+run_uuid: 5f120f108065498f98809d2ef2056a7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706264367541
+status: 3
+tags: []
+user_id: jonasbrichzin

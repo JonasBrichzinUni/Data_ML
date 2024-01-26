@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jonasbrichzin/Desktop/Nachhol_Abgabe_Jonas_Brichzin_Machine_Learning/mlruns/432972119018677489/999931b412f147d4b43ad57087f4d14f/artifacts
+end_time: 1706227051361
+entry_point_name: ''
+experiment_id: '432972119018677489'
+lifecycle_stage: active
+run_id: 999931b412f147d4b43ad57087f4d14f
+run_name: sedate-vole-81
+run_uuid: 999931b412f147d4b43ad57087f4d14f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706227018235
+status: 3
+tags: []
+user_id: jonasbrichzin

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jonasbrichzin/Desktop/Nachhol_Abgabe_Jonas_Brichzin_Machine_Learning/mlruns/432972119018677489/a12d059c846548acb5ced9e46f496f9e/artifacts
+end_time: 1706224764830
+entry_point_name: ''
+experiment_id: '432972119018677489'
+lifecycle_stage: active
+run_id: a12d059c846548acb5ced9e46f496f9e
+run_name: upset-mouse-403
+run_uuid: a12d059c846548acb5ced9e46f496f9e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706224758658
+status: 3
+tags: []
+user_id: jonasbrichzin

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jonasbrichzin/Desktop/Nachhol_Abgabe_Jonas_Brichzin_Machine_Learning/mlruns/432972119018677489/7a0499850a15466aaea6c58095b17602/artifacts
+end_time: 1706208917170
+entry_point_name: ''
+experiment_id: '432972119018677489'
+lifecycle_stage: active
+run_id: 7a0499850a15466aaea6c58095b17602
+run_name: thundering-midge-55
+run_uuid: 7a0499850a15466aaea6c58095b17602
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706208912518
+status: 3
+tags: []
+user_id: jonasbrichzin

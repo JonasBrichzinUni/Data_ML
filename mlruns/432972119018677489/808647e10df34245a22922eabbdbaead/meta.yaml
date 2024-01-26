@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jonasbrichzin/Desktop/Nachhol_Abgabe_Jonas_Brichzin_Machine_Learning/mlruns/432972119018677489/808647e10df34245a22922eabbdbaead/artifacts
+end_time: 1706206711070
+entry_point_name: ''
+experiment_id: '432972119018677489'
+lifecycle_stage: active
+run_id: 808647e10df34245a22922eabbdbaead
+run_name: CNN with optimal Hyperparameters
+run_uuid: 808647e10df34245a22922eabbdbaead
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706206710501
+status: 4
+tags: []
+user_id: jonasbrichzin

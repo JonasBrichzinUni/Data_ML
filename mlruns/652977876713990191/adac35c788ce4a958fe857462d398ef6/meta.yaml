@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jonasbrichzin/Desktop/Nachhol_Abgabe_Jonas_Brichzin_Machine_Learning/mlruns/652977876713990191/adac35c788ce4a958fe857462d398ef6/artifacts
+end_time: 1706135946492
+entry_point_name: ''
+experiment_id: '652977876713990191'
+lifecycle_stage: active
+run_id: adac35c788ce4a958fe857462d398ef6
+run_name: adventurous-foal-722
+run_uuid: adac35c788ce4a958fe857462d398ef6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706135946323
+status: 3
+tags: []
+user_id: jonasbrichzin

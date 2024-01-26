@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jonasbrichzin/Desktop/Nachhol_Abgabe_Jonas_Brichzin_Machine_Learning/mlruns/432972119018677489/6d09fbda049d4e8f8cd50605aea9f319/artifacts
+end_time: 1706205197760
+entry_point_name: ''
+experiment_id: '432972119018677489'
+lifecycle_stage: active
+run_id: 6d09fbda049d4e8f8cd50605aea9f319
+run_name: calm-robin-139
+run_uuid: 6d09fbda049d4e8f8cd50605aea9f319
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706205197545
+status: 4
+tags: []
+user_id: jonasbrichzin

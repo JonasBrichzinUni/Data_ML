@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jonasbrichzin/Desktop/Nachhol_Abgabe_Jonas_Brichzin_Machine_Learning/mlruns/432972119018677489/b0ff11cbefb74231a8d6e68c2b575517/artifacts
+end_time: 1706264439254
+entry_point_name: ''
+experiment_id: '432972119018677489'
+lifecycle_stage: active
+run_id: b0ff11cbefb74231a8d6e68c2b575517
+run_name: peaceful-stoat-12
+run_uuid: b0ff11cbefb74231a8d6e68c2b575517
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706264425444
+status: 3
+tags: []
+user_id: jonasbrichzin

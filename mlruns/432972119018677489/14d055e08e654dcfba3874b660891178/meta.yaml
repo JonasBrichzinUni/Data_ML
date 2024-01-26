@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jonasbrichzin/Desktop/Nachhol_Abgabe_Jonas_Brichzin_Machine_Learning/mlruns/432972119018677489/14d055e08e654dcfba3874b660891178/artifacts
+end_time: 1706226002108
+entry_point_name: ''
+experiment_id: '432972119018677489'
+lifecycle_stage: active
+run_id: 14d055e08e654dcfba3874b660891178
+run_name: capricious-trout-641
+run_uuid: 14d055e08e654dcfba3874b660891178
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706225946602
+status: 3
+tags: []
+user_id: jonasbrichzin

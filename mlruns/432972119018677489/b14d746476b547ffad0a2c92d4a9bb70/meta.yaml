@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jonasbrichzin/Desktop/Nachhol_Abgabe_Jonas_Brichzin_Machine_Learning/mlruns/432972119018677489/b14d746476b547ffad0a2c92d4a9bb70/artifacts
+end_time: 1706222799590
+entry_point_name: ''
+experiment_id: '432972119018677489'
+lifecycle_stage: active
+run_id: b14d746476b547ffad0a2c92d4a9bb70
+run_name: suave-bass-531
+run_uuid: b14d746476b547ffad0a2c92d4a9bb70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706222799461
+status: 3
+tags: []
+user_id: jonasbrichzin

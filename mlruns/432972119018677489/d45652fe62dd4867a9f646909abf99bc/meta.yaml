@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jonasbrichzin/Desktop/Nachhol_Abgabe_Jonas_Brichzin_Machine_Learning/mlruns/432972119018677489/d45652fe62dd4867a9f646909abf99bc/artifacts
+end_time: 1706223589665
+entry_point_name: ''
+experiment_id: '432972119018677489'
+lifecycle_stage: active
+run_id: d45652fe62dd4867a9f646909abf99bc
+run_name: capable-wasp-106
+run_uuid: d45652fe62dd4867a9f646909abf99bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706223551907
+status: 4
+tags: []
+user_id: jonasbrichzin

@@ -1,0 +1,1 @@
+run_batch_size=256_epochs=10_optimizer=adam_loss=categorical_crossentropy

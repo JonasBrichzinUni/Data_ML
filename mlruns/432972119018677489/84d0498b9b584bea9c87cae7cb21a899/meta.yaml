@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jonasbrichzin/Desktop/Nachhol_Abgabe_Jonas_Brichzin_Machine_Learning/mlruns/432972119018677489/84d0498b9b584bea9c87cae7cb21a899/artifacts
+end_time: 1706205936970
+entry_point_name: ''
+experiment_id: '432972119018677489'
+lifecycle_stage: active
+run_id: 84d0498b9b584bea9c87cae7cb21a899
+run_name: welcoming-boar-107
+run_uuid: 84d0498b9b584bea9c87cae7cb21a899
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706205936883
+status: 3
+tags: []
+user_id: jonasbrichzin

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jonasbrichzin/Desktop/Nachhol_Abgabe_Jonas_Brichzin_Machine_Learning/mlruns/432972119018677489/d5c6ff4b7dda4afdadf6bd4f32bf66ba/artifacts
+end_time: 1706288034913
+entry_point_name: ''
+experiment_id: '432972119018677489'
+lifecycle_stage: active
+run_id: d5c6ff4b7dda4afdadf6bd4f32bf66ba
+run_name: rumbling-fox-124
+run_uuid: d5c6ff4b7dda4afdadf6bd4f32bf66ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706288034779
+status: 3
+tags: []
+user_id: jonasbrichzin

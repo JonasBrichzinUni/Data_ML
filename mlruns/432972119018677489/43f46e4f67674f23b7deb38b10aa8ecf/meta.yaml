@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jonasbrichzin/Desktop/Nachhol_Abgabe_Jonas_Brichzin_Machine_Learning/mlruns/432972119018677489/43f46e4f67674f23b7deb38b10aa8ecf/artifacts
+end_time: 1706230498436
+entry_point_name: ''
+experiment_id: '432972119018677489'
+lifecycle_stage: active
+run_id: 43f46e4f67674f23b7deb38b10aa8ecf
+run_name: incongruous-worm-741
+run_uuid: 43f46e4f67674f23b7deb38b10aa8ecf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706230492093
+status: 3
+tags: []
+user_id: jonasbrichzin

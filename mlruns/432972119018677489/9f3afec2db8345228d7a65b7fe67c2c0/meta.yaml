@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jonasbrichzin/Desktop/Nachhol_Abgabe_Jonas_Brichzin_Machine_Learning/mlruns/432972119018677489/9f3afec2db8345228d7a65b7fe67c2c0/artifacts
+end_time: 1706224304200
+entry_point_name: ''
+experiment_id: '432972119018677489'
+lifecycle_stage: active
+run_id: 9f3afec2db8345228d7a65b7fe67c2c0
+run_name: capricious-duck-266
+run_uuid: 9f3afec2db8345228d7a65b7fe67c2c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706224249503
+status: 3
+tags: []
+user_id: jonasbrichzin

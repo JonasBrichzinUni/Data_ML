@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jonasbrichzin/Desktop/Nachhol_Abgabe_Jonas_Brichzin_Machine_Learning/mlruns/432972119018677489/16c18a017b5d4355972dab14236111c8/artifacts
+end_time: 1706297346705
+entry_point_name: ''
+experiment_id: '432972119018677489'
+lifecycle_stage: active
+run_id: 16c18a017b5d4355972dab14236111c8
+run_name: casual-bird-720
+run_uuid: 16c18a017b5d4355972dab14236111c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706297300217
+status: 3
+tags: []
+user_id: jonasbrichzin

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jonasbrichzin/Desktop/Nachhol_Abgabe_Jonas_Brichzin_Machine_Learning/mlruns/432972119018677489/40fd7c0f601b433e831f7d8d6df630f8/artifacts
+end_time: 1706198727667
+entry_point_name: ''
+experiment_id: '432972119018677489'
+lifecycle_stage: active
+run_id: 40fd7c0f601b433e831f7d8d6df630f8
+run_name: secretive-ape-612
+run_uuid: 40fd7c0f601b433e831f7d8d6df630f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706198727601
+status: 3
+tags: []
+user_id: jonasbrichzin

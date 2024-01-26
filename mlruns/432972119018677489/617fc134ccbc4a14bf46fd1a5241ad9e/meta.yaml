@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jonasbrichzin/Desktop/Nachhol_Abgabe_Jonas_Brichzin_Machine_Learning/mlruns/432972119018677489/617fc134ccbc4a14bf46fd1a5241ad9e/artifacts
+end_time: 1706282574834
+entry_point_name: ''
+experiment_id: '432972119018677489'
+lifecycle_stage: active
+run_id: 617fc134ccbc4a14bf46fd1a5241ad9e
+run_name: gregarious-shad-590
+run_uuid: 617fc134ccbc4a14bf46fd1a5241ad9e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706282507523
+status: 3
+tags: []
+user_id: jonasbrichzin

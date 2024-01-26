@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jonasbrichzin/Desktop/Nachhol_Abgabe_Jonas_Brichzin_Machine_Learning/mlruns/432972119018677489/4cf2fee8221844539504107b5980f16f/artifacts
+end_time: 1706205883462
+entry_point_name: ''
+experiment_id: '432972119018677489'
+lifecycle_stage: active
+run_id: 4cf2fee8221844539504107b5980f16f
+run_name: placid-fox-228
+run_uuid: 4cf2fee8221844539504107b5980f16f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706205879731
+status: 3
+tags: []
+user_id: jonasbrichzin

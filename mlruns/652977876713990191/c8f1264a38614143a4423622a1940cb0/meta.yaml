@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jonasbrichzin/Desktop/Nachhol_Abgabe_Jonas_Brichzin_Machine_Learning/mlruns/652977876713990191/c8f1264a38614143a4423622a1940cb0/artifacts
+end_time: 1706136010682
+entry_point_name: ''
+experiment_id: '652977876713990191'
+lifecycle_stage: active
+run_id: c8f1264a38614143a4423622a1940cb0
+run_name: sincere-newt-44
+run_uuid: c8f1264a38614143a4423622a1940cb0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706136010473
+status: 4
+tags: []
+user_id: jonasbrichzin

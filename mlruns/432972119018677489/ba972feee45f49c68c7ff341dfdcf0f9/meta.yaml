@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jonasbrichzin/Desktop/Nachhol_Abgabe_Jonas_Brichzin_Machine_Learning/mlruns/432972119018677489/ba972feee45f49c68c7ff341dfdcf0f9/artifacts
+end_time: 1706281492997
+entry_point_name: ''
+experiment_id: '432972119018677489'
+lifecycle_stage: active
+run_id: ba972feee45f49c68c7ff341dfdcf0f9
+run_name: agreeable-fish-592
+run_uuid: ba972feee45f49c68c7ff341dfdcf0f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706281492809
+status: 4
+tags: []
+user_id: jonasbrichzin

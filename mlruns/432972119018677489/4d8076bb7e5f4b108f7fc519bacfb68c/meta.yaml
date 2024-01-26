@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jonasbrichzin/Desktop/Nachhol_Abgabe_Jonas_Brichzin_Machine_Learning/mlruns/432972119018677489/4d8076bb7e5f4b108f7fc519bacfb68c/artifacts
+end_time: 1706222107672
+entry_point_name: ''
+experiment_id: '432972119018677489'
+lifecycle_stage: active
+run_id: 4d8076bb7e5f4b108f7fc519bacfb68c
+run_name: sassy-sow-457
+run_uuid: 4d8076bb7e5f4b108f7fc519bacfb68c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706222067521
+status: 3
+tags: []
+user_id: jonasbrichzin

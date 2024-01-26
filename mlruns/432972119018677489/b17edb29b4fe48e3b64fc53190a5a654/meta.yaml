@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jonasbrichzin/Desktop/Nachhol_Abgabe_Jonas_Brichzin_Machine_Learning/mlruns/432972119018677489/b17edb29b4fe48e3b64fc53190a5a654/artifacts
+end_time: 1706222107637
+entry_point_name: ''
+experiment_id: '432972119018677489'
+lifecycle_stage: active
+run_id: b17edb29b4fe48e3b64fc53190a5a654
+run_name: run_batch_size=64_epochs=20_optimizer=rmsprop_loss=categorical_crossentropy
+run_uuid: b17edb29b4fe48e3b64fc53190a5a654
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706222067627
+status: 3
+tags: []
+user_id: jonasbrichzin

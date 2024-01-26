@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jonasbrichzin/Desktop/Nachhol_Abgabe_Jonas_Brichzin_Machine_Learning/mlruns/432972119018677489/dd1f2e8db88044ca8536899fa758c948/artifacts
+end_time: 1706205094618
+entry_point_name: ''
+experiment_id: '432972119018677489'
+lifecycle_stage: active
+run_id: dd1f2e8db88044ca8536899fa758c948
+run_name: bittersweet-cow-481
+run_uuid: dd1f2e8db88044ca8536899fa758c948
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706205094579
+status: 4
+tags: []
+user_id: jonasbrichzin

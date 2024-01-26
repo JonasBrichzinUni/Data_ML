@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jonasbrichzin/Desktop/Nachhol_Abgabe_Jonas_Brichzin_Machine_Learning/mlruns/432972119018677489/fb4c4108f6274a1ab515d0fe96b13d91/artifacts
+end_time: 1706205663928
+entry_point_name: ''
+experiment_id: '432972119018677489'
+lifecycle_stage: active
+run_id: fb4c4108f6274a1ab515d0fe96b13d91
+run_name: amusing-pig-367
+run_uuid: fb4c4108f6274a1ab515d0fe96b13d91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706205663578
+status: 4
+tags: []
+user_id: jonasbrichzin

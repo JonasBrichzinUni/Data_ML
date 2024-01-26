@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jonasbrichzin/Desktop/Nachhol_Abgabe_Jonas_Brichzin_Machine_Learning/mlruns/432972119018677489/970c540ce58449f3805ce59ad0ff40e3/artifacts
+end_time: 1706213124907
+entry_point_name: ''
+experiment_id: '432972119018677489'
+lifecycle_stage: active
+run_id: 970c540ce58449f3805ce59ad0ff40e3
+run_name: orderly-elk-924
+run_uuid: 970c540ce58449f3805ce59ad0ff40e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706213124807
+status: 3
+tags: []
+user_id: jonasbrichzin

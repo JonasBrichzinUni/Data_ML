@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jonasbrichzin/Desktop/Nachhol_Abgabe_Jonas_Brichzin_Machine_Learning/mlruns/432972119018677489/33e11a72f5bd4b2f9994c21a06848e5e/artifacts
+end_time: 1706285179829
+entry_point_name: ''
+experiment_id: '432972119018677489'
+lifecycle_stage: active
+run_id: 33e11a72f5bd4b2f9994c21a06848e5e
+run_name: unleashed-moose-678
+run_uuid: 33e11a72f5bd4b2f9994c21a06848e5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706285172945
+status: 3
+tags: []
+user_id: jonasbrichzin

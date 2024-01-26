@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jonasbrichzin/Desktop/Nachhol_Abgabe_Jonas_Brichzin_Machine_Learning/mlruns/432972119018677489/1e33f7b87e13471eab725c87d9a5efc3/artifacts
+end_time: 1706229975066
+entry_point_name: ''
+experiment_id: '432972119018677489'
+lifecycle_stage: active
+run_id: 1e33f7b87e13471eab725c87d9a5efc3
+run_name: defiant-hound-115
+run_uuid: 1e33f7b87e13471eab725c87d9a5efc3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706229944529
+status: 3
+tags: []
+user_id: jonasbrichzin

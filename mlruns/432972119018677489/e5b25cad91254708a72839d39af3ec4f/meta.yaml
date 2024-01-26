@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jonasbrichzin/Desktop/Nachhol_Abgabe_Jonas_Brichzin_Machine_Learning/mlruns/432972119018677489/e5b25cad91254708a72839d39af3ec4f/artifacts
+end_time: 1706224228216
+entry_point_name: ''
+experiment_id: '432972119018677489'
+lifecycle_stage: active
+run_id: e5b25cad91254708a72839d39af3ec4f
+run_name: mercurial-trout-405
+run_uuid: e5b25cad91254708a72839d39af3ec4f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706224227780
+status: 4
+tags: []
+user_id: jonasbrichzin

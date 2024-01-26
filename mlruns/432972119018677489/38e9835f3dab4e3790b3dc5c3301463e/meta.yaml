@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jonasbrichzin/Desktop/Nachhol_Abgabe_Jonas_Brichzin_Machine_Learning/mlruns/432972119018677489/38e9835f3dab4e3790b3dc5c3301463e/artifacts
+end_time: 1706200687158
+entry_point_name: ''
+experiment_id: '432972119018677489'
+lifecycle_stage: active
+run_id: 38e9835f3dab4e3790b3dc5c3301463e
+run_name: righteous-colt-287
+run_uuid: 38e9835f3dab4e3790b3dc5c3301463e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706200687089
+status: 3
+tags: []
+user_id: jonasbrichzin

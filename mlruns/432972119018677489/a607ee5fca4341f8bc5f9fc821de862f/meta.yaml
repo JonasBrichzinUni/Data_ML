@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jonasbrichzin/Desktop/Nachhol_Abgabe_Jonas_Brichzin_Machine_Learning/mlruns/432972119018677489/a607ee5fca4341f8bc5f9fc821de862f/artifacts
+end_time: 1706223294899
+entry_point_name: ''
+experiment_id: '432972119018677489'
+lifecycle_stage: active
+run_id: a607ee5fca4341f8bc5f9fc821de862f
+run_name: youthful-quail-684
+run_uuid: a607ee5fca4341f8bc5f9fc821de862f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706223294196
+status: 4
+tags: []
+user_id: jonasbrichzin

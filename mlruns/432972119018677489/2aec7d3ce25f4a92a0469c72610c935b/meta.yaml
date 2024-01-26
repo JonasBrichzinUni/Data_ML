@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jonasbrichzin/Desktop/Nachhol_Abgabe_Jonas_Brichzin_Machine_Learning/mlruns/432972119018677489/2aec7d3ce25f4a92a0469c72610c935b/artifacts
+end_time: 1706229014743
+entry_point_name: ''
+experiment_id: '432972119018677489'
+lifecycle_stage: active
+run_id: 2aec7d3ce25f4a92a0469c72610c935b
+run_name: abrasive-elk-579
+run_uuid: 2aec7d3ce25f4a92a0469c72610c935b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706229014536
+status: 3
+tags: []
+user_id: jonasbrichzin

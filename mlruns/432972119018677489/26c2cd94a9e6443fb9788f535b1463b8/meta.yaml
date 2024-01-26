@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jonasbrichzin/Desktop/Nachhol_Abgabe_Jonas_Brichzin_Machine_Learning/mlruns/432972119018677489/26c2cd94a9e6443fb9788f535b1463b8/artifacts
+end_time: 1706208682776
+entry_point_name: ''
+experiment_id: '432972119018677489'
+lifecycle_stage: active
+run_id: 26c2cd94a9e6443fb9788f535b1463b8
+run_name: spiffy-chimp-585
+run_uuid: 26c2cd94a9e6443fb9788f535b1463b8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706208680377
+status: 4
+tags: []
+user_id: jonasbrichzin

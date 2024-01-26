@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jonasbrichzin/Desktop/Nachhol_Abgabe_Jonas_Brichzin_Machine_Learning/mlruns/432972119018677489/636bdd3641f24113862fc6749de58b8c/artifacts
+end_time: 1706281532834
+entry_point_name: ''
+experiment_id: '432972119018677489'
+lifecycle_stage: active
+run_id: 636bdd3641f24113862fc6749de58b8c
+run_name: rebellious-vole-450
+run_uuid: 636bdd3641f24113862fc6749de58b8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706281532738
+status: 4
+tags: []
+user_id: jonasbrichzin

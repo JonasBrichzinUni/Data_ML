@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jonasbrichzin/Desktop/Nachhol_Abgabe_Jonas_Brichzin_Machine_Learning/mlruns/432972119018677489/2c8eba44b4174556b1499b3008c171dd/artifacts
+end_time: 1706198074228
+entry_point_name: ''
+experiment_id: '432972119018677489'
+lifecycle_stage: active
+run_id: 2c8eba44b4174556b1499b3008c171dd
+run_name: bald-ant-902
+run_uuid: 2c8eba44b4174556b1499b3008c171dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706198074107
+status: 3
+tags: []
+user_id: jonasbrichzin

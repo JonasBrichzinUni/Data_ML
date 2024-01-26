@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jonasbrichzin/Desktop/Nachhol_Abgabe_Jonas_Brichzin_Machine_Learning/mlruns/432972119018677489/35ddd3425ffc4c9bb4eb5121a16f472e/artifacts
+end_time: 1706297360414
+entry_point_name: ''
+experiment_id: '432972119018677489'
+lifecycle_stage: active
+run_id: 35ddd3425ffc4c9bb4eb5121a16f472e
+run_name: capable-midge-234
+run_uuid: 35ddd3425ffc4c9bb4eb5121a16f472e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706297352950
+status: 3
+tags: []
+user_id: jonasbrichzin

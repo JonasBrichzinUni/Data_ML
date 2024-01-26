@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jonasbrichzin/Desktop/Nachhol_Abgabe_Jonas_Brichzin_Machine_Learning/mlruns/432972119018677489/c0fcca40a38e40bf9ac17862e7b7b387/artifacts
+end_time: 1706287792223
+entry_point_name: ''
+experiment_id: '432972119018677489'
+lifecycle_stage: active
+run_id: c0fcca40a38e40bf9ac17862e7b7b387
+run_name: chill-shrimp-215
+run_uuid: c0fcca40a38e40bf9ac17862e7b7b387
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706287767277
+status: 3
+tags: []
+user_id: jonasbrichzin

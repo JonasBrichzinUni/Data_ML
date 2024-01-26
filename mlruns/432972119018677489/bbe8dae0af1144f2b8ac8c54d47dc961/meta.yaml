@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jonasbrichzin/Desktop/Nachhol_Abgabe_Jonas_Brichzin_Machine_Learning/mlruns/432972119018677489/bbe8dae0af1144f2b8ac8c54d47dc961/artifacts
+end_time: 1706223438373
+entry_point_name: ''
+experiment_id: '432972119018677489'
+lifecycle_stage: active
+run_id: bbe8dae0af1144f2b8ac8c54d47dc961
+run_name: invincible-moth-59
+run_uuid: bbe8dae0af1144f2b8ac8c54d47dc961
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706223435344
+status: 4
+tags: []
+user_id: jonasbrichzin

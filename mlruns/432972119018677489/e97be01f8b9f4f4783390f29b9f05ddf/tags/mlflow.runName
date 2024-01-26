@@ -1,0 +1,1 @@
+run_batch_size=128_epochs=5_optimizer=adagrad_loss=sparse_categorical_crossentropy

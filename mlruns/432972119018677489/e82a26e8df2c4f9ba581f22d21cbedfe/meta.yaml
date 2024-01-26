@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jonasbrichzin/Desktop/Nachhol_Abgabe_Jonas_Brichzin_Machine_Learning/mlruns/432972119018677489/e82a26e8df2c4f9ba581f22d21cbedfe/artifacts
+end_time: 1706222938382
+entry_point_name: ''
+experiment_id: '432972119018677489'
+lifecycle_stage: active
+run_id: e82a26e8df2c4f9ba581f22d21cbedfe
+run_name: bittersweet-loon-603
+run_uuid: e82a26e8df2c4f9ba581f22d21cbedfe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706222936753
+status: 4
+tags: []
+user_id: jonasbrichzin

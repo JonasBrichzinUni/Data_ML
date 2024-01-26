@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jonasbrichzin/Desktop/Nachhol_Abgabe_Jonas_Brichzin_Machine_Learning/mlruns/432972119018677489/a9265d3a383d4cf3868ef5465cd70d71/artifacts
+end_time: 1706218986918
+entry_point_name: ''
+experiment_id: '432972119018677489'
+lifecycle_stage: active
+run_id: a9265d3a383d4cf3868ef5465cd70d71
+run_name: nosy-cub-964
+run_uuid: a9265d3a383d4cf3868ef5465cd70d71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706218945076
+status: 3
+tags: []
+user_id: jonasbrichzin

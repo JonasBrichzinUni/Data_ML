@@ -1,0 +1,1 @@
+run_batch_size=128_epochs=20_optimizer=sgd_loss=categorical_crossentropy
